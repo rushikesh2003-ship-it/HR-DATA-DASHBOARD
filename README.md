@@ -69,11 +69,9 @@ Diversity and inclusion tracking
 
 Departmental budgeting
 
-EXAMPLE - 
-
 🛠️ Tools Used
-Power BI for data visualization
+Power BI for data visualization 
 
-EXAMPLE - https://github.com/rushikesh2003-ship-it/HR_DATA_POWER_BI_DASHBOARD/blob/main/HR%20DATA%20POWER%20BI%20DASHBOARD.png
+Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Example: ![Dashboard Preview](
 
-Excel/CSV (assumed) as data source
