@@ -70,8 +70,12 @@ Diversity and inclusion tracking
 Departmental budgeting
 
 🛠️ Tools Used
-Power BI for data visualization 
+
+The dashboard was built using the following tools and technologies:<br>
+•	📊 Power BI Desktop – Main data visualization platform used for report creation.<br>
+•	📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.<br>
+•	🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.<br>
 
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview](
+Example: ![Dashboard Preview](https://github.com/rushikesh2003-ship-it/HR_DATA_POWER_BI_DASHBOARD/blob/main/HR%20DATA%20POWER%20BI%20DASHBOARD.png)
 
