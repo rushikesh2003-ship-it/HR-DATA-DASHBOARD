@@ -58,9 +58,6 @@ Career Fair: 23 hires
 
 Company Website: 13 hires Enables evaluation of hiring channel effectiveness.
 
-📁 Repository Contents
-HR DATA POWER BI DASHBOARD.png: High-resolution image of the dashboard View the dashboard
-
 🚀 Use Cases
 HR performance reviews
 
@@ -76,5 +73,7 @@ EXAMPLE -
 
 🛠️ Tools Used
 Power BI for data visualization
+
+EXAMPLE - https://github.com/rushikesh2003-ship-it/HR_DATA_POWER_BI_DASHBOARD/blob/main/HR%20DATA%20POWER%20BI%20DASHBOARD.png
 
 Excel/CSV (assumed) as data source
